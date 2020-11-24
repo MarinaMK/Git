@@ -25,3 +25,6 @@ From now on, only you and I
 We're going up, up, up, up, up, up, up
 Euphoria An everlasting piece of art
 A…
+
+Text of the first feature commit.
+Text of the second feature commit.
